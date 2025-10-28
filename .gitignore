@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+venv/
+key.key
+passwords.json
+.vscode/
